@@ -1,6 +1,5 @@
 # Wukah
-Random italian 'dev' <br>
-I mostly make random stuff
+Hi there! I'm Lukah, just a random italian 'dev'. I like coding and I mostly make random stuff. I started this Git acc to track the progress of my projects and because of the funny content graph showing green squares, hopefully it keeps me motivated to actually finish them! <br> Uhh and, and *almost* all my work will be released under a license, so everyone is free to do something with it, provided they stick to my terms.
 
 ## Knowledge list
 - [x] **HTML** (80%)
