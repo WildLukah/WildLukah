@@ -6,6 +6,7 @@ Hi there! I'm Lukah, just a random italian 'dev'. I like coding and I mostly mak
 - [ ] **XML** (30%)
 - [x] **CSS** (80%)
 - [x] **JS** (50%)
+- [X] **NodeJS** (20%)
 - [x] **PHP** (40%)
 - [x] **MySQL** (30%)
 - [ ] **C++** (10%)
