@@ -8,7 +8,7 @@ Hi there! I'm Lukah, just a random italian 'dev'. I like coding and I mostly mak
 - [x] **NodeJS** (20%)
 - [x] **PHP** (40%)
 - [ ] **C++** (10%)
-- [ ] Assembly (0%) [SOON]
+- [ ] Assembly (5%)
 ### Markup Languages
 - [x] **HTML** (80%)
 - [ ] **XML** (30%)
