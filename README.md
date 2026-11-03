@@ -4,11 +4,11 @@ Hi there! I'm Lukah, just a random italian 'dev'. I like coding and I mostly mak
 ## Language Comfort List
 (The checked languages ​​are the ones I am comfortable with)
 ### Programming Languages / Runtimes
-- [x] **JS** (50%)
+- [x] **JS** (55%)
 - [x] **NodeJS** (20%)
 - [x] **PHP** (40%)
 - [ ] **C++** (10%)
-- [ ] Assembly (5%)
+- [ ] Assembly (2%)
 ### Markup Languages
 - [x] **HTML** (80%)
 - [ ] **XML** (30%)
