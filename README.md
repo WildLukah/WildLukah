@@ -1,5 +1,6 @@
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=WildLukah"/> </p>
+  <i> To live is to larp </i> - Wukah, 2026
 </div>
 
 ## Hi there! I'm Wukah
@@ -27,4 +28,7 @@ I'm just a random italian 'dev'. I like coding and I mostly work on random stuff
       <td><p> 30% </p></td>
     </tr>
   </table>
+</div>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WildLukah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </div>
